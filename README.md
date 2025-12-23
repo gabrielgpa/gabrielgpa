@@ -1,5 +1,5 @@
-<h1 align="center">Salut 👋, je m’appelle Gabriel Araújo</h1>
-<h3 align="center">Je suis analyste programmeur avec plus de 9 ans d’expérience dans le développement de logiciels.</h3>
+<h1 align="center">Hello 👋, I’m Gabriel Araújo</h1>
+<h3 align="center">Software analyst and developer with over 10 years of experience in software development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielgpa&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielgpa" /> </p>
 
