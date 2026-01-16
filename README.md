@@ -12,7 +12,7 @@
 ---
 
 ### At a glance
-- Analyst programmer with 10+ years, BSc in Information Systems (2015).
+- Analyst programmer with 10+ years, BSc in Information Systems.
 - Strong in Java 11/17/21, Spring Boot, Node.js and AWS.
 - Passionate about collaborative teams, TDD, and reliable software delivery.
 
