@@ -3,7 +3,7 @@
   <p>Backend & DevOps Engineer · Québec, Canada</p>
   <p>Processes automation, microservices and continuous delivery</p>
   <p>
-    <a href="https://gabrielgpa.github.io/">Portfolio</a> ·
+    <a href="https://portfolio.gabrielgpa.com/">Portfolio</a> ·
     <a href="mailto:gabrielaraujogpa@gmail.com">Email</a> ·
     <a href="https://www.linkedin.com/in/gabrielgpar/">LinkedIn</a>
   </p>
