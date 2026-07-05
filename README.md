@@ -17,7 +17,7 @@
 - Passionate about collaborative teams, TDD, and reliable software delivery.
 
 ### Current focus
-- Process automation and microservices with Camunda BPM, Spring Boot 2/3, and Angular 19.
+- Process automation and microservices with Camunda BPM, Spring Boot 3+, and Angular 20+.
 - Observability and CI/CD with Splunk, Cloud Foundry, Concourse CI, and GitHub Actions.
 - Microfrontends, security, and API-first design for scaled delivery.
 
